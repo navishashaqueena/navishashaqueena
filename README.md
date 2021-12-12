@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @navishashaqueena
-- 👀 I’m interested in python and django
+- 👋 Hi, I’m Rifki Arisandi Pratama
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on pythonista
 - 📫 How to reach me 
